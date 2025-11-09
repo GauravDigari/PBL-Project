@@ -1,0 +1,10 @@
+[
+  {
+    "questions": ["what is quick sort", "explain quicksort algorithm"],
+    "answer": "QuickSort is a divide-and-conquer algorithm that sorts by partitioning elements around a pivot."
+  },
+  {
+    "questions": ["time complexity of quicksort"],
+    "answer": "Average time complexity of QuickSort is O(n log n)."
+  }
+]

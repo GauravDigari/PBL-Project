@@ -1,0 +1,82 @@
+[
+  {
+    "questions": ["what is java", "define java"],
+    "answer": "Java is an object-oriented programming language that is platform-independent and widely used for web and mobile applications."
+  },
+  {
+    "questions": ["what is jvm"],
+    "answer": "JVM stands for Java Virtual Machine. It is responsible for executing Java bytecode."
+  },
+   {
+    "question": "What is JRE?",
+    "answer": "JRE stands for Java Runtime Environment. It provides the libraries and JVM required to run Java applications."
+  },
+  {
+    "question": "What is JDK?",
+    "answer": "JDK stands for Java Development Kit. It includes JRE, compiler, and tools for developing Java programs."
+  },
+  {
+    "question": "What is a Class in Java?",
+    "answer": "A class is a blueprint or template from which objects are created. It defines properties and behaviors of an object."
+  },
+  {
+    "question": "What is an Object in Java?",
+    "answer": "An object is an instance of a class that has state and behavior."
+  },
+  {
+    "question": "What is Inheritance in Java?",
+    "answer": "Inheritance is a mechanism where one class acquires the properties and behaviors of another class using the 'extends' keyword."
+  },
+  {
+    "question": "What is Polymorphism?",
+    "answer": "Polymorphism allows objects to take many forms, enabling a single interface to represent different types."
+  },
+  {
+    "question": "What is Encapsulation?",
+    "answer": "Encapsulation is the wrapping of data and methods into a single unit (class) and restricting access using access modifiers."
+  },
+  {
+    "question": "What is Abstraction?",
+    "answer": "Abstraction hides implementation details and shows only essential features of an object."
+  },
+  {
+    "question": "What is the difference between '==‘ and '.equals()' in Java?",
+    "answer": "'==' compares object references, while '.equals()' compares object values."
+  },
+  {
+    "question": "What are Access Modifiers in Java?",
+    "answer": "Access modifiers define the visibility of classes, methods, and variables. Examples: public, private, protected, default."
+  },
+  {
+    "question": "What is a Constructor?",
+    "answer": "A constructor is a special method used to initialize objects in Java. It has the same name as the class."
+  },
+  {
+    "question": "What is Method Overloading?",
+    "answer": "Method overloading allows multiple methods in the same class with the same name but different parameters."
+  },
+  {
+    "question": "What is Method Overriding?",
+    "answer": "Method overriding occurs when a subclass provides a specific implementation of a method already defined in its superclass."
+  },
+  {
+    "question": "What is an Interface in Java?",
+    "answer": "An interface is a collection of abstract methods that a class can implement to achieve multiple inheritance."
+  },
+  {
+    "question": "What is an Abstract Class?",
+    "answer": "An abstract class is a class that cannot be instantiated and may contain abstract methods without implementation."
+  },
+  {
+    "question": "What is a Package in Java?",
+    "answer": "A package is a namespace that organizes related classes and interfaces, helping to avoid name conflicts."
+  },
+  {
+    "question": "What is Exception Handling?",
+    "answer": "Exception handling in Java is used to handle runtime errors using try, catch, throw, throws, and finally blocks."
+  },
+  {
+    "question": "What is Multithreading in Java?",
+    "answer": "Multithreading allows concurrent execution of two or more threads for maximum CPU utilization."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is DBMS?",
+    "answer": "DBMS stands for Database Management System. It is software that helps store, manage, and retrieve data efficiently."
+  },
+  {
+    "question": "What is a Database?",
+    "answer": "A database is an organized collection of data that can be easily accessed, managed, and updated."
+  },
+  {
+    "question": "What is RDBMS?",
+    "answer": "RDBMS stands for Relational Database Management System. It stores data in tables that are related to each other using keys."
+  },
+  {
+    "question": "What is a Table?",
+    "answer": "A table is a collection of rows and columns used to store data in a structured format."
+  },
+  {
+    "question": "What is a Primary Key?",
+    "answer": "A primary key uniquely identifies each record in a table and cannot contain NULL values."
+  },
+  {
+    "question": "What is a Foreign Key?",
+    "answer": "A foreign key is a field in one table that refers to the primary key of another table, establishing a relationship between the two."
+  },
+  {
+    "question": "What is a Candidate Key?",
+    "answer": "A candidate key is an attribute or set of attributes that can uniquely identify a record in a table."
+  },
+  {
+    "question": "What is a Super Key?",
+    "answer": "A super key is a set of attributes that can uniquely identify a record in a table. Every primary key is a super key, but not vice versa."
+  },
+  {
+    "question": "What is Normalization?",
+    "answer": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity."
+  },
+  {
+    "question": "What are the Normal Forms?",
+    "answer": "Normal forms are stages of normalization: 1NF, 2NF, 3NF, and BCNF, each with stricter rules to eliminate redundancy."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL (Structured Query Language) is used to communicate with and manage data in a relational database."
+  },
+  {
+    "question": "What are DDL commands?",
+    "answer": "DDL (Data Definition Language) commands define database structure. Examples: CREATE, ALTER, DROP."
+  },
+  {
+    "question": "What are DML commands?",
+    "answer": "DML (Data Manipulation Language) commands handle data operations. Examples: INSERT, UPDATE, DELETE, SELECT."
+  },
+  {
+    "question": "What are DCL commands?",
+    "answer": "DCL (Data Control Language) commands control user access to data. Examples: GRANT, REVOKE."
+  },
+  {
+    "question": "What is a View?",
+    "answer": "A view is a virtual table based on the result of an SQL query. It does not store data physically."
+  },
+  {
+    "question": "What is a Transaction?",
+    "answer": "A transaction is a sequence of one or more SQL operations performed as a single unit of work."
+  },
+  {
+    "question": "What are ACID properties?",
+    "answer": "ACID stands for Atomicity, Consistency, Isolation, Durability — properties that ensure reliable database transactions."
+  },
+  {
+    "question": "What is a Join in SQL?",
+    "answer": "A join combines rows from two or more tables based on a related column between them."
+  },
+  {
+    "question": "What is a Stored Procedure?",
+    "answer": "A stored procedure is a set of SQL statements stored in the database that can be executed as a program."
+  },
+  {
+    "question": "What is a Trigger?",
+    "answer": "A trigger is a stored program that automatically executes when a specific event occurs in a table, such as INSERT or UPDATE."
+  }
+]
